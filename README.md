@@ -1,5 +1,3 @@
-# python-basics
-
 # Python Crash Course (Complete Notes)
 
 ---
