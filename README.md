@@ -1456,8 +1456,12 @@ print("---------- Game has ended -----------------------")
 
 ---
 
-## Next Steps
-
-Start learning some of the more advanced Python concepts in detail with:
-
-**ApnaCollege's Detailed Python Series:** Shradha Khapra — *Python Language Full Course (2026)*
+## 👤 Author
+ 
+**Dhruv**
+🔗 GitHub: [Dhruvpratap2006](https://github.com/Dhruvpratap2006)
+🔗 LinkedIn: [dhruv-pratap](https://www.linkedin.com/in/dhruv-pratap-1a3aaa344)
+ 
+> If these notes helped you, drop a ⭐ on the repo — it keeps me motivated to keep sharing stuff like this!
+ 
+⭐⭐⭐⭐⭐
